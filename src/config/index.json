@@ -1,0 +1,130 @@
+{
+  "company": {
+    "name": "Tech Nine Solutions Inc.",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Tech Nine Solutions Inc.",
+    "subtitle": "Your One Stop IT Solution",
+    "description": "Tech Nine Solutions is a full-scale technology consulting firm. We specialize in implementing small-to-mid size IT projects, developing data driven solutions, managing products and software development cycles, along with providing staffing and business management services.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:info@tech9-solutions.com"
+    }
+  },
+  "product": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Staff Augmentation",
+        "description": "Staff augmentation makes it easy for a business to hire other developers without increasing the budget. In a way, utilizing human resources based on the needs and skills according to the requirement. It’s a contract-based work in which professionals work for you only for a limited period.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "SOFTWARE DEVELOPMENT",
+        "description": "Your software defines the interaction of you with your customer. Nowadays, any product can get its value through software means. But building these software products creates new challenges and difficulties for the enterprises. Vastika Inc is here to help you in all these complexities.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Project Implementation",
+        "description": "Project implementation is the process of using the outputs from planning to introduce the new product, service, or process to the marketplace. Project implementation is the process of executing the planned activities and bringing the project to completion. The implementation phase involves putting the project plan into action. ",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Product Management",
+        "description": "Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Business Management",
+        "description": "Business management is the process by which a company gets its employees to produce the greatest results with the least amount of effort using the resources available to them. Attending a master's degree program in business administration allows you to study what motivates employees to work efficiently and shows you some best practices for making the most of an organization's resources.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Data Driven Solutions",
+        "description": "Data-driven solutions are the result of a data-driven approach to problem-solving. This approach involves collecting and analyzing data to make informed decisions. Data-driven solutions are the result of a data-driven approach to problem-solving. This approach involves collecting and analyzing data to make informed decisions.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Why Us",
+    "subtitle": "We constantly strive to deliver the best IT solutions to our clients.",
+    "description": "Choose Tech Nine Solutions as your trusted IT partner and unlock the full potential of your business. Contact us today to discuss your technology needs and discover the difference our unrivaled IT solutions can make.",
+    "items": [
+      {
+        "name": "Expertise and Experience:",
+        "description": "With 5 years of industry experience, our IT consulting firm boasts a team of seasoned professionals who possess extensive knowledge and expertise in various IT domains. We deliver innovative solutions tailored to your specific needs, staying up-to-date with the latest advancements in technology.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Client-Centric Approach:",
+        "description": "At Tech Nine Solutions, our clients are our top priority. We foster long-term partnerships built on trust, transparency, and mutual success. By understanding your unique business challenges and objectives, we provide personalized solutions that drive your organization forward. ",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Comprehensive IT Services:",
+        "description": "From strategic planning to implementation, optimization, and support, our IT consulting firm offers a comprehensive range of services to address your technology infrastructure needs. Whether it's cloud computing, cybersecurity, network infrastructure, software development, data analytics, or IT project management, we've got you covered.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Proven Track Record:",
+        "description": "TWe have a solid track record of successfully executing IT projects across various industries, earning the trust and satisfaction of our clients. Our portfolio showcases our ability to exceed expectations in streamlining operations, enhancing productivity, improving security, and driving digital transformation.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+
+  "about": {
+    "sections": [
+      {
+        "name": "Home",
+        "href": "#",
+        "content": "Tech Nine Solutions  "
+      },
+      {
+        "name": "Services",
+        "href": "product",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Why Us",
+        "href": "features",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "About",
+        "href": "about",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  }
+}
